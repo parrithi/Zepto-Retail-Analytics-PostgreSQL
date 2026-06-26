@@ -44,9 +44,9 @@ This project analyzes Zepto's inventory dataset using PostgreSQL to uncover insi
 
 ## 📂 Project Files
 
-* `zepto_v2.csv` – Dataset
+* `zepto_v2.csv` – Datasets
 * `Zepto_Project.sql` – SQL Queries
-* `README.md` – Project Documentation
+* `README.md` – Project Documentations
 
 ## 🎯 Learning Outcome
 
